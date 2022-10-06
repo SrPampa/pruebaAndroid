@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pulsa a la calculadora</string>
+    <string name="calculadora">calculadora</string>
+    <string name="modo_avion">modo_avion</string>
+    <string name="boton_1">1</string>
+    <string name="boton_2">2</string>
+    <string name="boton_3">3</string>
+    <string name="boton_4">4</string>
+    <string name="boton_5">5</string>
+    <string name="boton_6">6</string>
+    <string name="boton_7">7</string>
+    <string name="boton_8">8</string>
+    <string name="boton_9">9</string>
+    <string name="boton_0">0</string>
+    <string name="boton_Sum">+</string>
+    <string name="boton_Rest">-</string>
+    <string name="boton_Mult">x</string>
+    <string name="boton_Div">/</string>
+    <string name="boton_Igual">=</string>
+    <string name="boton_Borrar">Reset</string>
+    <string name="boton_Volver">Volver</string>
+</resources>
